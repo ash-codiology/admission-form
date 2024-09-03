@@ -1,4 +1,3 @@
-"# My Project" 
 # Admission Form
 
 This repository contains a simple HTML form for college or university admission for the academic year 2024/2025. The form collects personal information, program selection details, and other relevant data.
